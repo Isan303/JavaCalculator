@@ -26,10 +26,12 @@ public class Main
 
      case 3:
 	  int div = a / b;
+	  System.out.println(div);
      break;
 
      case 4;
 	  int multi = a * b;
+	  System.out.println(multi);
      break;
     
      default : 
