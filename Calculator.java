@@ -24,7 +24,7 @@ public class Main
    
      break; 
 		    
-    case 3;
+    case 3:
 	  int multi = a * b;
 	  System.out.println(multi);
      break;
