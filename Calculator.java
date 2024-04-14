@@ -19,10 +19,23 @@ public class Main
      break; 
   
     case 2 :
-        int sub=a+b;
+        int sub=a-b;
         System.out.println(sub);
    
      break; 
+		    
+    case 3;
+	  int multi = a * b;
+	  System.out.println(multi);
+     break;
+		    
+    case 4:
+	  int div = a / b;
+	  System.out.println(div);
+     break;
+//changes done
+
+    
     
      default : 
      System.out.println("Invalid Choice");
